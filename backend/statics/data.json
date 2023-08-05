@@ -1,0 +1,50 @@
+{
+          "movies": [{
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    }, {
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    },
+
+                    {
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    }, {
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    }, {
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    }, {
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    }, {
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    }, {
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    }, {
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    }, {
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    }, {
+                              "name": "Oppenhiemer",
+                              "rating": "8.5",
+                              "release": "21-07-2023"
+                    }
+          ]
+}
